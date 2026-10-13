@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 15951,
+      "minecraft:walk_one_cm": 25058,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 145,
+      "minecraft:damage_taken": 641,
+      "minecraft:play_time": 164747,
+      "minecraft:open_shulker_box": 1,
+      "minecraft:jump": 251,
+      "minecraft:time_since_death": 15894,
+      "minecraft:aviate_one_cm": 265971,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 28760,
+      "minecraft:open_chest": 4,
+      "minecraft:fall_one_cm": 5095,
+      "minecraft:swim_one_cm": 1195,
+      "minecraft:total_world_time": 164747,
+      "minecraft:fly_one_cm": 60572,
+      "minecraft:walk_on_water_one_cm": 110,
+      "minecraft:crouch_one_cm": 1254,
+      "minecraft:sneak_time": 374,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 11,
+      "minecraft:tall_grass": 2,
+      "minecraft:lever": 1,
+      "minecraft:sculk_vein": 1,
+      "minecraft:powered_rail": 2
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone": 12,
+      "minecraft:minecart": 2,
+      "minecraft:elytra": 1,
+      "minecraft:sticky_piston": 1,
+      "minecraft:lever": 4,
+      "minecraft:cooked_mutton": 4,
+      "minecraft:powered_rail": 6,
+      "minecraft:cooked_porkchop": 1,
+      "minecraft:firework_rocket": 20
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:minecart": 2,
+      "minecraft:powered_rail": 2,
+      "minecraft:firework_rocket": 28,
+      "minecraft:lever": 4,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:stone": 16,
+      "minecraft:sticky_piston": 1,
+      "minecraft:cooked_porkchop": 13,
+      "minecraft:elytra": 1,
+      "minecraft:deepslate": 3
+    }
+  },
+  "DataVersion": 4903
+}
